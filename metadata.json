@@ -1,0 +1,6 @@
+{
+  "name": "Mon Solde — Suivi de compte rapide",
+  "description": "Application mobile-first de suivi de compte bancaire simple et rapide avec solde en temps réel et historique local.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
